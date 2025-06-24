@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋 I'm Basmala!</h1>
-<p align="center">🌸 AI Enthusiast | Student 🌸</p>
+<h1 align="center">Hey there 👋 I'm Basmala Ahmed</h1>
+<p align="center">🌸 AI Enthusiast Student 🌸</p>
 
 ---
 
@@ -30,4 +30,3 @@
 - 🧠 GitHub: [@YourUsername](https://github.com/BasmalaAlsrage)
 ---
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
