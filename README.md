@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Basmala Ahmed</h1>
-<p align="center">🌸 AI Enthusiast Student 🌸</p>
+<p align="center">🌸 I am Currently Learning Artificial Intelligence</p>
 
 ---
 
