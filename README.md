@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋 I'm Basmala!</h1>
+<p align="center">🌸 AI Enthusiast | Student 🌸</p>
 
-<!--
-**BasmalaAlsrage/BasmalaAlsrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me:
+- 🎓 I'm an IT student, currently diving into the world of *Artificial Intelligence*
+- 💻 Passionate about Machine Learning, Data, and Smart Solutions
+- 🌱 Currently learning: Python, Machine Learning, and AI Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack:
+- *Languages:* Python, C++, HTML, CSS  
+- *Tools:* Git & GitHub, Jupyter Notebook, VS Code  
+- *AI & ML:* NumPy, Pandas, Scikit-learn, Matplotlib
+
+---
+
+## 📌 Projects:
+- 🤖 AI-Powered Image Classifier 
+- 📊 Student Performance Predictor
+- 🧠 ML Mini Projects 
+
+---
+
+## 🌐 Connect With Me:
+- 📧 Email: bsmlh241@gmail.com  
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/basmala-ahmed-samir-4a2127298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+
+---
+
+<p align="center">✨ Thank you for visiting my profile! ✨</p>
